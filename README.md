@@ -8,4 +8,4 @@
 # Note
 * If several links point to the same content, only submit the first link with its relevance level
 * Cannot return to the previous page :(
-* Cannot store partial results, have to finish 200 docs before uploading to Elasticsearch
+* Cannot store partial results, have to finish 200 docs before uploading to Elasticsearch :(
