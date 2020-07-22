@@ -2,7 +2,7 @@
 * Enter assessor's name and server settings in the sidebar, click "Confirm"
 * Select a query, and search
 * Choose a relevance level and click "Submit"
-* You can see the numbe of assessed docs on the bottom right after you submit one doc
+* You can see the number of assessed docs on the bottom right notice after you submit each doc
 * When the number of assessed docs hits 200, it'll be uploaded to Elasticsearch
 
 # Note
