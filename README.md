@@ -1,5 +1,5 @@
 # About Assessment
-* Enter assessor's name in the sidebar
+* Enter assessor's name and server settings in the sidebar, click "Confirm"
 * Select a query, and search
 * Choose a relevance level and click "Submit"
 
